@@ -1,0 +1,11 @@
+.btnColor{
+    color: whitesmoke;
+}
+.btnColor:hover{
+    color: whitesmoke;
+    text-decoration: none;
+    
+}
+.bgColor:hover{
+    background-color: black;
+}
